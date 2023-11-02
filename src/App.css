@@ -1,0 +1,7 @@
+html,
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("./assets/githubBackground2.jpg");
+  height: 100vh;
+}

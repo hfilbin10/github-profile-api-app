@@ -45,5 +45,4 @@ function MyModal({ userData, hideModal }) {
 
 export default MyModal;
 
-// if (userData.name === null) {
 
